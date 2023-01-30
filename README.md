@@ -10,7 +10,7 @@
 - [NeueFische](https://www.neuefische.de)
 
 # In my free time i like to do it.
-- Repair the car.
+- Repairig my car.
 - Cycling
 - To go for a walk.
 - Cooking.
