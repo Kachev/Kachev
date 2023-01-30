@@ -4,6 +4,8 @@
 
 - [NeueFische](https://www.neuefische.de)
 
+ ![neuefische](https://images.ctfassets.net/m8n66tuamygx/4hT1EuV1z7nnYGOBXOEWPz/006bf4419464bb53cffcaacb85f84199/metaimage.png)
+
 # In my free time i like to do it.
 - Repairig my car.
 - Cycling
