@@ -1,14 +1,11 @@
 # Welcome to my GitHub page! 👋🏼
 
-- I am Hristo Kachev,  26 years old from Bulgaria. Since I am very interested in programming and developing myself further, I registered with Neue Fische for a Web Developer Bootcamp.
+- ich bin Hristo Kachev und lebe in München. Weil ich sehr große interesse am Programmieren habe und mich weiter entwickeln möchte, mache ich jetzt das neue Web Development Bootcamp von neue Fische und hoffentlich werde danach einen neuen Job finden.
 
-- [NeueFische](https://www.neuefische.de)
+- [NeueFische](https://www.neuefische.de/bootcamp/web-development)
 
- ![neuefische](https://images.ctfassets.net/m8n66tuamygx/4hT1EuV1z7nnYGOBXOEWPz/006bf4419464bb53cffcaacb85f84199/metaimage.png)
+ <img src="https://images.ctfassets.net/m8n66tuamygx/4hT1EuV1z7nnYGOBXOEWPz/006bf4419464bb53cffcaacb85f84199/metaimage.png" width="200" />
 
-# In my free time i like to do it.
-- Repairig my car.
-- Cycling
-- To go for a walk.
-- Cooking.
+# in meine Freizeit mache ich gerne:
 
+-Elektronikbasteln
