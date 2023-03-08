@@ -6,6 +6,6 @@
 
  <img src="https://images.ctfassets.net/m8n66tuamygx/4hT1EuV1z7nnYGOBXOEWPz/006bf4419464bb53cffcaacb85f84199/metaimage.png" width="200" />
 
-# in meine Freizeit mache ich gerne:
+# In meine Freizeit mache ich gerne:
 
 -Elektronikbasteln
